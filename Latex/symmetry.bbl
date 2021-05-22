@@ -1,0 +1,64 @@
+\begin{thebibliography}{\protect\citename{Sutherland et~al\mbox{.} }1974}
+
+\bibitem[\protect\citename{Catmull }1974]{1}
+{\sc Catmull, E.}
+\newblock 1974.
+\newblock A subdivision algorithm for computer display of curved surfaces.
+\newblock {\em Technical report UTEC-CSs-74-133 University of Utah\/}.
+
+\bibitem[\protect\citename{Catmull }1978]{0}
+{\sc Catmull, E.}
+\newblock 1978.
+
+\bibitem[\protect\citename{Crow }1977]{2}
+{\sc Crow, F.}
+\newblock 1977.
+\newblock The aliasing problem in computer- generated~haded images.
+\newblock {\em CACM\/} (Novemenber).
+
+\bibitem[\protect\citename{Hamlin and Gear }1977]{8}
+{\sc Hamlin, G.~J., and Gear, C.}
+\newblock 1977.
+\newblock Raster- scan hidden surface algorithm techniques.
+\newblock {\em Siggraph proceedings\/}.
+
+\bibitem[\protect\citename{Myers }1975]{3}
+{\sc Myers, A.~J.}
+\newblock 1975.
+\newblock An efficient visible surface program.
+\newblock {\em Ohio State University, Computer Graphics Research Group, report
+  to NSF\/} (July).
+
+\bibitem[\protect\citename{Shoup }1973]{4}
+{\sc Shoup, R.}
+\newblock 1973.
+\newblock Some quantization effects in digitally-generated pictures.
+\newblock {\em Society for In- formation Display\/}.
+
+\bibitem[\protect\citename{Sutherland and G.W. }1974]{6}
+{\sc Sutherland, I., and G.W., H.}
+\newblock 1974.
+\newblock Reentrant polygon clipping.
+\newblock {\em CACM\/} (January).
+
+\bibitem[\protect\citename{Sutherland et~al\mbox{.} }1974]{7}
+{\sc Sutherland, I., Sproull, R., and Schumacker, R.}
+\newblock 1974.
+\newblock A characterization of ten hidden surface algorithms.
+\newblock {\em ACM Computing Surveys\/} (March).
+
+\bibitem[\protect\citename{Sutherland }1973]{5}
+{\sc Sutherland, I.E., O.~.}
+\newblock 1973.
+\newblock Polygon sorting by subdivision: A solution to the hidden-surface
+  problem,.
+\newblock {\em Unpublished manuscript, Also public lecture at University of
+  Utah\/}.
+
+\bibitem[\protect\citename{Weiler and Atherton }1977]{9}
+{\sc Weiler, K., and Atherton, P.}
+\newblock 1977.
+\newblock , hidden surface removal using polygon area sorting.
+\newblock {\em Siggraph proceedings\/}.
+
+\end{thebibliography}

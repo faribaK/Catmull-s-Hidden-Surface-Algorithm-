@@ -1,0 +1,86 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: symmetry.aux
+Reallocating 'name_of_file' (item size: 1) to 12 items.
+The style file: acmsiggraph.bst
+Reallocating 'name_of_file' (item size: 1) to 9 items.
+Database file #1: symmetry.bib
+I was expecting a `,' or a `}'---line 5 of file symmetry.bib
+ :     
+ :     TITLE = "A hidden surface algorithm with anti-aliasing",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Name 2 in "Sutherland, I.E. and Sproull, R.F., and Schumacker, R.A." has a comma at the end for entry 7
+while executing---line 1280 of file acmsiggraph.bst
+Name 1 in "Hamlin, Griffith Jr., and Gear, C.W." has a comma at the end for entry 8
+while executing---line 1280 of file acmsiggraph.bst
+Name 1 in "Hamlin, Griffith Jr., and Gear, C.W." has a comma at the end for entry 8
+while executing---line 1280 of file acmsiggraph.bst
+Name 1 in "Sutherland, I.E., October 1973," has a comma at the end for entry 5
+while executing---line 1280 of file acmsiggraph.bst
+Name 1 in "Sutherland, I.E., October 1973," has a comma at the end for entry 5
+while executing---line 1280 of file acmsiggraph.bst
+Name 1 in "Sutherland, I.E., and Hodgman G.W.," has a comma at the end for entry 6
+while executing---line 1280 of file acmsiggraph.bst
+Name 2 in "Sutherland, I.E., and Hodgman G.W.," has a comma at the end for entry 6
+while executing---line 1280 of file acmsiggraph.bst
+Name 2 in "Sutherland, I.E., and Hodgman G.W.," has a comma at the end for entry 6
+while executing---line 1280 of file acmsiggraph.bst
+Name 1 in "Sutherland, I.E., and Hodgman G.W.," has a comma at the end for entry 6
+while executing---line 1280 of file acmsiggraph.bst
+Name 2 in "Sutherland, I.E., and Hodgman G.W.," has a comma at the end for entry 6
+while executing---line 1280 of file acmsiggraph.bst
+Warning--empty title in 0
+Warning--empty journal in 0
+Name 1 in "Hamlin, Griffith Jr., and Gear, C.W." has a comma at the end for entry 8
+while executing---line 1345 of file acmsiggraph.bst
+Name 1 in "Sutherland, I.E., and Hodgman G.W.," has a comma at the end for entry 6
+while executing---line 1345 of file acmsiggraph.bst
+Name 2 in "Sutherland, I.E., and Hodgman G.W.," has a comma at the end for entry 6
+while executing---line 1345 of file acmsiggraph.bst
+Name 2 in "Sutherland, I.E. and Sproull, R.F., and Schumacker, R.A." has a comma at the end for entry 7
+while executing---line 1345 of file acmsiggraph.bst
+Name 1 in "Sutherland, I.E., October 1973," has a comma at the end for entry 5
+while executing---line 1345 of file acmsiggraph.bst
+You've used 10 entries,
+            2748 wiz_defined-function locations,
+            632 strings with 5387 characters,
+and the built_in function-call counts, 2925 in all, are:
+= -- 296
+> -- 117
+< -- 0
++ -- 37
+- -- 42
+* -- 203
+:= -- 524
+add.period$ -- 38
+call.type$ -- 10
+change.case$ -- 54
+chr.to.int$ -- 10
+cite$ -- 12
+duplicate$ -- 119
+empty$ -- 221
+format.name$ -- 46
+if$ -- 583
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 10
+newline$ -- 61
+num.names$ -- 30
+pop$ -- 38
+preamble$ -- 1
+purify$ -- 45
+quote$ -- 0
+skip$ -- 93
+stack$ -- 0
+substring$ -- 54
+swap$ -- 29
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 80
+warning$ -- 2
+while$ -- 29
+width$ -- 12
+write$ -- 128
+(There were 16 error messages)
