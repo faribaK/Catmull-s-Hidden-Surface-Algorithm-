@@ -1,0 +1,64 @@
+﻿  matlib.cpp
+c:\users\farib\documents\visual studio 2015\projects\project2\project2\matlib.cpp(169): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\farib\documents\visual studio 2015\projects\project2\project2\matlib.cpp(149): warning C4101: 'r0': unreferenced local variable
+c:\users\farib\documents\visual studio 2015\projects\project2\project2\matlib.cpp(150): warning C4101: 'r1': unreferenced local variable
+c:\users\farib\documents\visual studio 2015\projects\project2\project2\matlib.cpp(150): warning C4101: 'g1': unreferenced local variable
+c:\users\farib\documents\visual studio 2015\projects\project2\project2\matlib.cpp(149): warning C4101: 'b0': unreferenced local variable
+c:\users\farib\documents\visual studio 2015\projects\project2\project2\matlib.cpp(150): warning C4101: 'b1': unreferenced local variable
+c:\users\farib\documents\visual studio 2015\projects\project2\project2\matlib.cpp(149): warning C4101: 'g0': unreferenced local variable
+c:\users\farib\documents\visual studio 2015\projects\project2\project2\matlib.cpp(209): warning C4101: 'ii': unreferenced local variable
+c:\users\farib\documents\visual studio 2015\projects\project2\project2\matlib.cpp(255): warning C4101: 'ii': unreferenced local variable
+c:\users\farib\documents\visual studio 2015\projects\project2\project2\matlib.cpp(711): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\farib\documents\visual studio 2015\projects\project2\project2\matlib.cpp(712): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\farib\documents\visual studio 2015\projects\project2\project2\matlib.cpp(727): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\farib\documents\visual studio 2015\projects\project2\project2\matlib.cpp(753): warning C4018: '<': signed/unsigned mismatch
+c:\users\farib\documents\visual studio 2015\projects\project2\project2\matlib.cpp(780): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\farib\documents\visual studio 2015\projects\project2\project2\matlib.cpp(781): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\farib\documents\visual studio 2015\projects\project2\project2\matlib.cpp(782): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\farib\documents\visual studio 2015\projects\project2\project2\matlib.cpp(797): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+c:\users\farib\documents\visual studio 2015\projects\project2\project2\matlib.cpp(663): warning C4101: 'tempV3D': unreferenced local variable
+c:\users\farib\documents\visual studio 2015\projects\project2\project2\matlib.cpp(665): warning C4101: 'zValues': unreferenced local variable
+c:\users\farib\documents\visual studio 2015\projects\project2\project2\matlib.cpp(1003): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\farib\documents\visual studio 2015\projects\project2\project2\matlib.cpp(1014): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\farib\documents\visual studio 2015\projects\project2\project2\matlib.cpp(1062): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\farib\documents\visual studio 2015\projects\project2\project2\matlib.cpp(1063): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\farib\documents\visual studio 2015\projects\project2\project2\matlib.cpp(1064): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\farib\documents\visual studio 2015\projects\project2\project2\matlib.cpp(1065): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\farib\documents\visual studio 2015\projects\project2\project2\matlib.cpp(1095): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\farib\documents\visual studio 2015\projects\project2\project2\matlib.cpp(1096): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\farib\documents\visual studio 2015\projects\project2\project2\matlib.cpp(1097): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\farib\documents\visual studio 2015\projects\project2\project2\matlib.cpp(1098): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\farib\documents\visual studio 2015\projects\project2\project2\matlib.cpp(1137): warning C4018: '<': signed/unsigned mismatch
+c:\users\farib\documents\visual studio 2015\projects\project2\project2\matlib.cpp(1138): warning C4018: '<': signed/unsigned mismatch
+c:\users\farib\documents\visual studio 2015\projects\project2\project2\matlib.cpp(1172): warning C4018: '<': signed/unsigned mismatch
+c:\users\farib\documents\visual studio 2015\projects\project2\project2\matlib.cpp(1187): warning C4018: '<': signed/unsigned mismatch
+c:\users\farib\documents\visual studio 2015\projects\project2\project2\matlib.cpp(1190): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\farib\documents\visual studio 2015\projects\project2\project2\matlib.cpp(1191): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\farib\documents\visual studio 2015\projects\project2\project2\matlib.cpp(1194): warning C4018: '<': signed/unsigned mismatch
+c:\users\farib\documents\visual studio 2015\projects\project2\project2\matlib.cpp(1201): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\farib\documents\visual studio 2015\projects\project2\project2\matlib.cpp(1202): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\farib\documents\visual studio 2015\projects\project2\project2\matlib.cpp(1205): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\farib\documents\visual studio 2015\projects\project2\project2\matlib.cpp(1315): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\farib\documents\visual studio 2015\projects\project2\project2\matlib.cpp(1336): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\farib\documents\visual studio 2015\projects\project2\project2\matlib.cpp(1373): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\farib\documents\visual studio 2015\projects\project2\project2\matlib.cpp(1495): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\farib\documents\visual studio 2015\projects\project2\project2\matlib.cpp(1496): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\farib\documents\visual studio 2015\projects\project2\project2\matlib.cpp(1497): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\farib\documents\visual studio 2015\projects\project2\project2\matlib.cpp(1498): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\farib\documents\visual studio 2015\projects\project2\project2\matlib.cpp(1551): warning C4018: '<': signed/unsigned mismatch
+c:\users\farib\documents\visual studio 2015\projects\project2\project2\matlib.cpp(1558): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\farib\documents\visual studio 2015\projects\project2\project2\matlib.cpp(1559): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\farib\documents\visual studio 2015\projects\project2\project2\matlib.cpp(1560): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\farib\documents\visual studio 2015\projects\project2\project2\matlib.cpp(1563): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\farib\documents\visual studio 2015\projects\project2\project2\matlib.cpp(1569): warning C4018: '<': signed/unsigned mismatch
+c:\users\farib\documents\visual studio 2015\projects\project2\project2\matlib.cpp(1576): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\farib\documents\visual studio 2015\projects\project2\project2\matlib.cpp(1577): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\farib\documents\visual studio 2015\projects\project2\project2\matlib.cpp(1578): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\farib\documents\visual studio 2015\projects\project2\project2\matlib.cpp(1581): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\farib\documents\visual studio 2015\projects\project2\project2\matlib.cpp(1784): warning C4101: 'i': unreferenced local variable
+c:\users\farib\documents\visual studio 2015\projects\project2\project2\matlib.cpp(1848): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Project2.cpp
+  Generating Code...
+c:\users\farib\documents\visual studio 2015\projects\project2\project2\matlib.cpp(1876): warning C4715: 'checkinside2': not all control paths return a value
+  Project2.vcxproj -> C:\Users\farib\documents\visual studio 2015\Projects\Project2\Debug\Project2.exe
+  Project2.vcxproj -> C:\Users\farib\documents\visual studio 2015\Projects\Project2\Debug\Project2.pdb (Full PDB)
